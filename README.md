@@ -35,5 +35,10 @@ THakueiのプロフィールをキラキラにしよう
 ## Github Trohy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thakuei)](https://github.com/Thakuei/github-profile-trophy)
 
-## Skill Icons
-![](https://skillicons.dev/icons?i=html,css,js,typescript,nextjs,nodejs,python,ruby,rails,react,aws,git,github,docker,aws,)
+## Used Technology Icon
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,nextjs,nodejs,python,anaconda,ruby,rails,react,aws,supabase,git,github,docker,notion,vscode,&perline=5"></img>
+  </a>
+</p>
+
