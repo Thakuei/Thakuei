@@ -1,5 +1,5 @@
 # Record of Thakuei activity
-THakueiのプロフィールをキラキラにしよう
+Welcome to my Github!
 ## External Detalis
 <p align="left">
   <a href="https://github.com/Thakuei/Thakuei/">
