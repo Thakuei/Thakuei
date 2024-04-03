@@ -22,13 +22,18 @@ THakueiのプロフィールをキラキラにしよう
   </a>
 </p>
 
-## Profile Card
-  <a href="https://github.com/Thakuei/github-readme-stats">
+## Card
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Thakuei&show_icons=true&theme=radical"></img>
   </a>
-  <a href="https://github.com/Thakuei/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thakuei&layout=donut"></img>
   </a>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thakuei&theme=default)
 
 ## Github Trohy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thakuei)](https://github.com/Thakuei/github-profile-trophy)
+
+## Skill Icons
+![](https://skillicons.dev/icons?i=html,css,js,typescript,nextjs,nodejs,python,ruby,rails,react,aws,git,github,docker,aws,)
