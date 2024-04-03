@@ -22,7 +22,7 @@ Welcome to my Github!
   </a>
 </p>
 
-## Card
+## Status Card
 |My status|Use language|
 |:--:|:--:|
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thakuei&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thakuei&layout=donut)](https://github.com/anuraghazra/github-readme-stats)| 
